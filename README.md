@@ -1,7 +1,7 @@
 ### A sample spring boot application 
 
 ### Overview
-provides solution for knapsack problem with dynamic programming approach.
+This spring boot application provides solution for knapsack problem with dynamic programming approach.
 
 ### Maven build 
 ```
