@@ -30,5 +30,8 @@ java -jar target/demo-0.0.1-SNAPSHOT.jar
   is greater than the value without the current item itself
 * If the current item's weight is more than the running weight, just carry forward the value without the current item
 
+### Output
+Maximum Time Allowed : 10000 Maximum Satisfaction : 2493893
+
 ### Reference link
 Knapsack Problem Dynamic Programming: https://www.youtube.com/watch?v=8LusJS5-AGo
